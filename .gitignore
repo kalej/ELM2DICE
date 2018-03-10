@@ -154,3 +154,17 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+/ELM2DICEGUI/$I30
+/packages/Be.Windows.Forms.HexBox.1.6.1/$I30
+/$I30
+/analyzer.py
+/diceval_2017-07-04_19-45-34.csv
+/diceval_2017-07-04_21-06-26.csv
+/diceval_2017-07-04_21-07-07.csv
+/diceval_2017-07-04_21-11-33.csv
+*.csv
+/myeeprom.bin
+/myeeprom.bin.bak
+/ELM2DICEGUI/Properties/$I30
+/ELM2DICE
+/.vs/ELM2DICE/v15/Server/sqlite3
