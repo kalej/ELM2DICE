@@ -27,7 +27,7 @@ namespace ELM2DICEGUI
         {
             Write("ATI\r");
             version = ReadTo(">");
-            return version.Contains("ELM");
+            return version.Contains("E");
         }
 
         private Boolean sendATCommand(string req)
